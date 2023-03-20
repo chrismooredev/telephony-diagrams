@@ -196,7 +196,6 @@ def main():
         </style>
         </svg>
     """)
-    pass
 
 if __name__ == "__main__":
     main()

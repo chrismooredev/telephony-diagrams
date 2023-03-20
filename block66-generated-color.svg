@@ -4181,7 +4181,7 @@
 #pins .pin rect.rj-brown  { fill: var(--rj-brown); }
 #pins .pin rect.rj-slate  { fill: var(--rj-slate); }
 
-#pins.greypins .pin rect.pin-core, #pins .pin rect.pin-stripe {
+#pins.greypins .pin rect.pin-core, #pins.greypins .pin rect.pin-stripe {
     fill: gray;
 }
 
