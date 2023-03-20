@@ -1,0 +1,4251 @@
+
+        <svg id="block66" width="320" height="836" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+        
+        <g id="housing"><rect x="80px" y="0px" width="160px" height="828px"></rect>
+	<rect x="0px" y="0px" width="80px" height="828px"></rect>
+	<rect x="240px" y="0px" width="80px" height="828px"></rect></g>
+        <g id="pins" class="greypins">
+        <g class="pin-group" id="side_a_pair_white_blue">
+        <title>Pair: white/blue on side A</title>
+        
+        <g class="pin-label label-custom">
+            <text class="pin-label-top" x="5.333333333333333px" y="18px" dominant-baseline="hanging" style="font-size: 10px;">35001</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="34px" dominant-baseline="hanging" style="font-size: 10px;">Rm201</text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="16" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_white_blue_tip">
+            
+    <g class="pin pin-tip pri-white sec-blue" data-primary="white" data-secondary="blue">
+        <rect
+        class="pin-core rj-white"
+        x="92px" y="18px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="105.75px" y="18px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-white sec-blue" data-primary="white" data-secondary="blue">
+        <rect
+        class="pin-core rj-white"
+        x="130px" y="18px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="143.75px" y="18px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="21.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_white_blue_ring">
+            
+    <g class="pin pin-ring pri-white sec-blue" data-primary="white" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="92px" y="34px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="105.75px" y="34px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-white sec-blue" data-primary="white" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="130px" y="34px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="143.75px" y="34px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="37.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="14.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_white_blue">
+        <title>Pair: white/blue on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="18px" dominant-baseline="hanging" style="font-size: 10px;">(B-1) WH/BU</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="34px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="16" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_white_blue_tip">
+            
+    <g class="pin pin-tip pri-white sec-blue" data-primary="white" data-secondary="blue">
+        <rect
+        class="pin-core rj-white"
+        x="168px" y="18px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="181.75px" y="18px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-white sec-blue" data-primary="white" data-secondary="blue">
+        <rect
+        class="pin-core rj-white"
+        x="206px" y="18px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="219.75px" y="18px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="21.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_white_blue_ring">
+            
+    <g class="pin pin-ring pri-white sec-blue" data-primary="white" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="168px" y="34px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="181.75px" y="34px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-white sec-blue" data-primary="white" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="206px" y="34px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="219.75px" y="34px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="37.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="14.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_white_orange">
+        <title>Pair: white/orange on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="50px" dominant-baseline="hanging" style="font-size: 10px;">(A-2) WH/OG</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="66px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="48" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_white_orange_tip">
+            
+    <g class="pin pin-tip pri-white sec-orange" data-primary="white" data-secondary="orange">
+        <rect
+        class="pin-core rj-white"
+        x="92px" y="50px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="105.75px" y="50px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-white sec-orange" data-primary="white" data-secondary="orange">
+        <rect
+        class="pin-core rj-white"
+        x="130px" y="50px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="143.75px" y="50px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="53.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_white_orange_ring">
+            
+    <g class="pin pin-ring pri-white sec-orange" data-primary="white" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="92px" y="66px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="105.75px" y="66px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-white sec-orange" data-primary="white" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="130px" y="66px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="143.75px" y="66px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="69.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="46.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_white_orange">
+        <title>Pair: white/orange on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="50px" dominant-baseline="hanging" style="font-size: 10px;">(B-2) WH/OG</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="66px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="48" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_white_orange_tip">
+            
+    <g class="pin pin-tip pri-white sec-orange" data-primary="white" data-secondary="orange">
+        <rect
+        class="pin-core rj-white"
+        x="168px" y="50px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="181.75px" y="50px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-white sec-orange" data-primary="white" data-secondary="orange">
+        <rect
+        class="pin-core rj-white"
+        x="206px" y="50px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="219.75px" y="50px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="53.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_white_orange_ring">
+            
+    <g class="pin pin-ring pri-white sec-orange" data-primary="white" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="168px" y="66px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="181.75px" y="66px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-white sec-orange" data-primary="white" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="206px" y="66px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="219.75px" y="66px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="69.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="46.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_white_green">
+        <title>Pair: white/green on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="82px" dominant-baseline="hanging" style="font-size: 10px;">(A-3) WH/GN</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="98px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="80" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_white_green_tip">
+            
+    <g class="pin pin-tip pri-white sec-green" data-primary="white" data-secondary="green">
+        <rect
+        class="pin-core rj-white"
+        x="92px" y="82px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="105.75px" y="82px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-white sec-green" data-primary="white" data-secondary="green">
+        <rect
+        class="pin-core rj-white"
+        x="130px" y="82px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="143.75px" y="82px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="85.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_white_green_ring">
+            
+    <g class="pin pin-ring pri-white sec-green" data-primary="white" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="92px" y="98px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="105.75px" y="98px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-white sec-green" data-primary="white" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="130px" y="98px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="143.75px" y="98px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="101.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="78.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_white_green">
+        <title>Pair: white/green on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="82px" dominant-baseline="hanging" style="font-size: 10px;">(B-3) WH/GN</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="98px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="80" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_white_green_tip">
+            
+    <g class="pin pin-tip pri-white sec-green" data-primary="white" data-secondary="green">
+        <rect
+        class="pin-core rj-white"
+        x="168px" y="82px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="181.75px" y="82px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-white sec-green" data-primary="white" data-secondary="green">
+        <rect
+        class="pin-core rj-white"
+        x="206px" y="82px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="219.75px" y="82px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="85.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_white_green_ring">
+            
+    <g class="pin pin-ring pri-white sec-green" data-primary="white" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="168px" y="98px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="181.75px" y="98px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-white sec-green" data-primary="white" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="206px" y="98px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="219.75px" y="98px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="101.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="78.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_white_brown">
+        <title>Pair: white/brown on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="114px" dominant-baseline="hanging" style="font-size: 10px;">(A-4) WH/BN</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="130px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="112" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_white_brown_tip">
+            
+    <g class="pin pin-tip pri-white sec-brown" data-primary="white" data-secondary="brown">
+        <rect
+        class="pin-core rj-white"
+        x="92px" y="114px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="105.75px" y="114px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-white sec-brown" data-primary="white" data-secondary="brown">
+        <rect
+        class="pin-core rj-white"
+        x="130px" y="114px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="143.75px" y="114px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="117.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_white_brown_ring">
+            
+    <g class="pin pin-ring pri-white sec-brown" data-primary="white" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="92px" y="130px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="105.75px" y="130px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-white sec-brown" data-primary="white" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="130px" y="130px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="143.75px" y="130px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="133.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="110.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_white_brown">
+        <title>Pair: white/brown on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="114px" dominant-baseline="hanging" style="font-size: 10px;">(B-4) WH/BN</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="130px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="112" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_white_brown_tip">
+            
+    <g class="pin pin-tip pri-white sec-brown" data-primary="white" data-secondary="brown">
+        <rect
+        class="pin-core rj-white"
+        x="168px" y="114px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="181.75px" y="114px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-white sec-brown" data-primary="white" data-secondary="brown">
+        <rect
+        class="pin-core rj-white"
+        x="206px" y="114px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="219.75px" y="114px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="117.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_white_brown_ring">
+            
+    <g class="pin pin-ring pri-white sec-brown" data-primary="white" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="168px" y="130px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="181.75px" y="130px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-white sec-brown" data-primary="white" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="206px" y="130px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="219.75px" y="130px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="133.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="110.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_white_slate">
+        <title>Pair: white/slate on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="146px" dominant-baseline="hanging" style="font-size: 10px;">(A-5) WH/GY</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="162px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="144" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_white_slate_tip">
+            
+    <g class="pin pin-tip pri-white sec-slate" data-primary="white" data-secondary="slate">
+        <rect
+        class="pin-core rj-white"
+        x="92px" y="146px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="105.75px" y="146px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-white sec-slate" data-primary="white" data-secondary="slate">
+        <rect
+        class="pin-core rj-white"
+        x="130px" y="146px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="143.75px" y="146px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="149.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_white_slate_ring">
+            
+    <g class="pin pin-ring pri-white sec-slate" data-primary="white" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="92px" y="162px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="105.75px" y="162px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-white sec-slate" data-primary="white" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="130px" y="162px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="143.75px" y="162px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="165.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="142.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_white_slate">
+        <title>Pair: white/slate on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="146px" dominant-baseline="hanging" style="font-size: 10px;">(B-5) WH/GY</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="162px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="144" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_white_slate_tip">
+            
+    <g class="pin pin-tip pri-white sec-slate" data-primary="white" data-secondary="slate">
+        <rect
+        class="pin-core rj-white"
+        x="168px" y="146px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="181.75px" y="146px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-white sec-slate" data-primary="white" data-secondary="slate">
+        <rect
+        class="pin-core rj-white"
+        x="206px" y="146px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="219.75px" y="146px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="149.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_white_slate_ring">
+            
+    <g class="pin pin-ring pri-white sec-slate" data-primary="white" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="168px" y="162px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="181.75px" y="162px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-white sec-slate" data-primary="white" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="206px" y="162px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-white"
+        x="219.75px" y="162px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="165.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="142.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_red_blue">
+        <title>Pair: red/blue on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="178px" dominant-baseline="hanging" style="font-size: 10px;">(A-6) RD/BU</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="194px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="176" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_red_blue_tip">
+            
+    <g class="pin pin-tip pri-red sec-blue" data-primary="red" data-secondary="blue">
+        <rect
+        class="pin-core rj-red"
+        x="92px" y="178px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="105.75px" y="178px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-red sec-blue" data-primary="red" data-secondary="blue">
+        <rect
+        class="pin-core rj-red"
+        x="130px" y="178px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="143.75px" y="178px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="181.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_red_blue_ring">
+            
+    <g class="pin pin-ring pri-red sec-blue" data-primary="red" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="92px" y="194px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="105.75px" y="194px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-red sec-blue" data-primary="red" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="130px" y="194px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="143.75px" y="194px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="197.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="174.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_red_blue">
+        <title>Pair: red/blue on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="178px" dominant-baseline="hanging" style="font-size: 10px;">(B-6) RD/BU</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="194px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="176" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_red_blue_tip">
+            
+    <g class="pin pin-tip pri-red sec-blue" data-primary="red" data-secondary="blue">
+        <rect
+        class="pin-core rj-red"
+        x="168px" y="178px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="181.75px" y="178px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-red sec-blue" data-primary="red" data-secondary="blue">
+        <rect
+        class="pin-core rj-red"
+        x="206px" y="178px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="219.75px" y="178px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="181.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_red_blue_ring">
+            
+    <g class="pin pin-ring pri-red sec-blue" data-primary="red" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="168px" y="194px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="181.75px" y="194px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-red sec-blue" data-primary="red" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="206px" y="194px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="219.75px" y="194px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="197.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="174.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_red_orange">
+        <title>Pair: red/orange on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="210px" dominant-baseline="hanging" style="font-size: 10px;">(A-7) RD/OG</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="226px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="208" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_red_orange_tip">
+            
+    <g class="pin pin-tip pri-red sec-orange" data-primary="red" data-secondary="orange">
+        <rect
+        class="pin-core rj-red"
+        x="92px" y="210px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="105.75px" y="210px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-red sec-orange" data-primary="red" data-secondary="orange">
+        <rect
+        class="pin-core rj-red"
+        x="130px" y="210px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="143.75px" y="210px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="213.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_red_orange_ring">
+            
+    <g class="pin pin-ring pri-red sec-orange" data-primary="red" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="92px" y="226px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="105.75px" y="226px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-red sec-orange" data-primary="red" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="130px" y="226px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="143.75px" y="226px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="229.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="206.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_red_orange">
+        <title>Pair: red/orange on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="210px" dominant-baseline="hanging" style="font-size: 10px;">(B-7) RD/OG</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="226px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="208" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_red_orange_tip">
+            
+    <g class="pin pin-tip pri-red sec-orange" data-primary="red" data-secondary="orange">
+        <rect
+        class="pin-core rj-red"
+        x="168px" y="210px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="181.75px" y="210px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-red sec-orange" data-primary="red" data-secondary="orange">
+        <rect
+        class="pin-core rj-red"
+        x="206px" y="210px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="219.75px" y="210px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="213.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_red_orange_ring">
+            
+    <g class="pin pin-ring pri-red sec-orange" data-primary="red" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="168px" y="226px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="181.75px" y="226px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-red sec-orange" data-primary="red" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="206px" y="226px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="219.75px" y="226px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="229.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="206.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_red_green">
+        <title>Pair: red/green on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="242px" dominant-baseline="hanging" style="font-size: 10px;">(A-8) RD/GN</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="258px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="240" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_red_green_tip">
+            
+    <g class="pin pin-tip pri-red sec-green" data-primary="red" data-secondary="green">
+        <rect
+        class="pin-core rj-red"
+        x="92px" y="242px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="105.75px" y="242px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-red sec-green" data-primary="red" data-secondary="green">
+        <rect
+        class="pin-core rj-red"
+        x="130px" y="242px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="143.75px" y="242px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="245.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_red_green_ring">
+            
+    <g class="pin pin-ring pri-red sec-green" data-primary="red" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="92px" y="258px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="105.75px" y="258px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-red sec-green" data-primary="red" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="130px" y="258px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="143.75px" y="258px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="261.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="238.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_red_green">
+        <title>Pair: red/green on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="242px" dominant-baseline="hanging" style="font-size: 10px;">(B-8) RD/GN</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="258px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="240" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_red_green_tip">
+            
+    <g class="pin pin-tip pri-red sec-green" data-primary="red" data-secondary="green">
+        <rect
+        class="pin-core rj-red"
+        x="168px" y="242px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="181.75px" y="242px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-red sec-green" data-primary="red" data-secondary="green">
+        <rect
+        class="pin-core rj-red"
+        x="206px" y="242px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="219.75px" y="242px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="245.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_red_green_ring">
+            
+    <g class="pin pin-ring pri-red sec-green" data-primary="red" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="168px" y="258px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="181.75px" y="258px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-red sec-green" data-primary="red" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="206px" y="258px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="219.75px" y="258px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="261.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="238.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_red_brown">
+        <title>Pair: red/brown on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="274px" dominant-baseline="hanging" style="font-size: 10px;">(A-9) RD/BN</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="290px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="272" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_red_brown_tip">
+            
+    <g class="pin pin-tip pri-red sec-brown" data-primary="red" data-secondary="brown">
+        <rect
+        class="pin-core rj-red"
+        x="92px" y="274px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="105.75px" y="274px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-red sec-brown" data-primary="red" data-secondary="brown">
+        <rect
+        class="pin-core rj-red"
+        x="130px" y="274px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="143.75px" y="274px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="277.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_red_brown_ring">
+            
+    <g class="pin pin-ring pri-red sec-brown" data-primary="red" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="92px" y="290px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="105.75px" y="290px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-red sec-brown" data-primary="red" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="130px" y="290px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="143.75px" y="290px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="293.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="270.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_red_brown">
+        <title>Pair: red/brown on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="274px" dominant-baseline="hanging" style="font-size: 10px;">(B-9) RD/BN</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="290px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="272" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_red_brown_tip">
+            
+    <g class="pin pin-tip pri-red sec-brown" data-primary="red" data-secondary="brown">
+        <rect
+        class="pin-core rj-red"
+        x="168px" y="274px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="181.75px" y="274px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-red sec-brown" data-primary="red" data-secondary="brown">
+        <rect
+        class="pin-core rj-red"
+        x="206px" y="274px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="219.75px" y="274px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="277.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_red_brown_ring">
+            
+    <g class="pin pin-ring pri-red sec-brown" data-primary="red" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="168px" y="290px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="181.75px" y="290px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-red sec-brown" data-primary="red" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="206px" y="290px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="219.75px" y="290px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="293.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="270.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_red_slate">
+        <title>Pair: red/slate on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="306px" dominant-baseline="hanging" style="font-size: 10px;">(A-10) RD/GY</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="322px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="304" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_red_slate_tip">
+            
+    <g class="pin pin-tip pri-red sec-slate" data-primary="red" data-secondary="slate">
+        <rect
+        class="pin-core rj-red"
+        x="92px" y="306px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="105.75px" y="306px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-red sec-slate" data-primary="red" data-secondary="slate">
+        <rect
+        class="pin-core rj-red"
+        x="130px" y="306px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="143.75px" y="306px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="309.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_red_slate_ring">
+            
+    <g class="pin pin-ring pri-red sec-slate" data-primary="red" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="92px" y="322px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="105.75px" y="322px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-red sec-slate" data-primary="red" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="130px" y="322px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="143.75px" y="322px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="325.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="302.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_red_slate">
+        <title>Pair: red/slate on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="306px" dominant-baseline="hanging" style="font-size: 10px;">(B-10) RD/GY</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="322px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="304" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_red_slate_tip">
+            
+    <g class="pin pin-tip pri-red sec-slate" data-primary="red" data-secondary="slate">
+        <rect
+        class="pin-core rj-red"
+        x="168px" y="306px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="181.75px" y="306px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-red sec-slate" data-primary="red" data-secondary="slate">
+        <rect
+        class="pin-core rj-red"
+        x="206px" y="306px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="219.75px" y="306px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="309.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_red_slate_ring">
+            
+    <g class="pin pin-ring pri-red sec-slate" data-primary="red" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="168px" y="322px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="181.75px" y="322px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-red sec-slate" data-primary="red" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="206px" y="322px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-red"
+        x="219.75px" y="322px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="325.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="302.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_black_blue">
+        <title>Pair: black/blue on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="338px" dominant-baseline="hanging" style="font-size: 10px;">(A-11) BK/BU</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="354px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="336" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_black_blue_tip">
+            
+    <g class="pin pin-tip pri-black sec-blue" data-primary="black" data-secondary="blue">
+        <rect
+        class="pin-core rj-black"
+        x="92px" y="338px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="105.75px" y="338px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-black sec-blue" data-primary="black" data-secondary="blue">
+        <rect
+        class="pin-core rj-black"
+        x="130px" y="338px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="143.75px" y="338px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="341.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_black_blue_ring">
+            
+    <g class="pin pin-ring pri-black sec-blue" data-primary="black" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="92px" y="354px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="105.75px" y="354px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-black sec-blue" data-primary="black" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="130px" y="354px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="143.75px" y="354px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="357.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="334.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_black_blue">
+        <title>Pair: black/blue on side B</title>
+        
+        <g class="pin-label label-custom">
+            <text class="pin-label-top" x="245.33333333333334px" y="338px" dominant-baseline="hanging" style="font-size: 10px;">Ext 82931</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="354px" dominant-baseline="hanging" style="font-size: 10px;">S. Hopkins</text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="336" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_black_blue_tip">
+            
+    <g class="pin pin-tip pri-black sec-blue" data-primary="black" data-secondary="blue">
+        <rect
+        class="pin-core rj-black"
+        x="168px" y="338px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="181.75px" y="338px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-black sec-blue" data-primary="black" data-secondary="blue">
+        <rect
+        class="pin-core rj-black"
+        x="206px" y="338px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="219.75px" y="338px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="341.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_black_blue_ring">
+            
+    <g class="pin pin-ring pri-black sec-blue" data-primary="black" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="168px" y="354px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="181.75px" y="354px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-black sec-blue" data-primary="black" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="206px" y="354px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="219.75px" y="354px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="357.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="334.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_black_orange">
+        <title>Pair: black/orange on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="370px" dominant-baseline="hanging" style="font-size: 10px;">(A-12) BK/OG</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="386px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="368" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_black_orange_tip">
+            
+    <g class="pin pin-tip pri-black sec-orange" data-primary="black" data-secondary="orange">
+        <rect
+        class="pin-core rj-black"
+        x="92px" y="370px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="105.75px" y="370px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-black sec-orange" data-primary="black" data-secondary="orange">
+        <rect
+        class="pin-core rj-black"
+        x="130px" y="370px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="143.75px" y="370px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="373.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_black_orange_ring">
+            
+    <g class="pin pin-ring pri-black sec-orange" data-primary="black" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="92px" y="386px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="105.75px" y="386px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-black sec-orange" data-primary="black" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="130px" y="386px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="143.75px" y="386px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="389.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="366.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_black_orange">
+        <title>Pair: black/orange on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="370px" dominant-baseline="hanging" style="font-size: 10px;">(B-12) BK/OG</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="386px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="368" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_black_orange_tip">
+            
+    <g class="pin pin-tip pri-black sec-orange" data-primary="black" data-secondary="orange">
+        <rect
+        class="pin-core rj-black"
+        x="168px" y="370px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="181.75px" y="370px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-black sec-orange" data-primary="black" data-secondary="orange">
+        <rect
+        class="pin-core rj-black"
+        x="206px" y="370px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="219.75px" y="370px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="373.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_black_orange_ring">
+            
+    <g class="pin pin-ring pri-black sec-orange" data-primary="black" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="168px" y="386px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="181.75px" y="386px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-black sec-orange" data-primary="black" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="206px" y="386px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="219.75px" y="386px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="389.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="366.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_black_green">
+        <title>Pair: black/green on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="402px" dominant-baseline="hanging" style="font-size: 10px;">(A-13) BK/GN</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="418px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="400" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_black_green_tip">
+            
+    <g class="pin pin-tip pri-black sec-green" data-primary="black" data-secondary="green">
+        <rect
+        class="pin-core rj-black"
+        x="92px" y="402px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="105.75px" y="402px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-black sec-green" data-primary="black" data-secondary="green">
+        <rect
+        class="pin-core rj-black"
+        x="130px" y="402px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="143.75px" y="402px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="405.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_black_green_ring">
+            
+    <g class="pin pin-ring pri-black sec-green" data-primary="black" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="92px" y="418px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="105.75px" y="418px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-black sec-green" data-primary="black" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="130px" y="418px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="143.75px" y="418px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="421.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="398.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_black_green">
+        <title>Pair: black/green on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="402px" dominant-baseline="hanging" style="font-size: 10px;">(B-13) BK/GN</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="418px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="400" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_black_green_tip">
+            
+    <g class="pin pin-tip pri-black sec-green" data-primary="black" data-secondary="green">
+        <rect
+        class="pin-core rj-black"
+        x="168px" y="402px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="181.75px" y="402px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-black sec-green" data-primary="black" data-secondary="green">
+        <rect
+        class="pin-core rj-black"
+        x="206px" y="402px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="219.75px" y="402px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="405.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_black_green_ring">
+            
+    <g class="pin pin-ring pri-black sec-green" data-primary="black" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="168px" y="418px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="181.75px" y="418px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-black sec-green" data-primary="black" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="206px" y="418px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="219.75px" y="418px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="421.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="398.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_black_brown">
+        <title>Pair: black/brown on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="434px" dominant-baseline="hanging" style="font-size: 10px;">(A-14) BK/BN</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="450px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="432" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_black_brown_tip">
+            
+    <g class="pin pin-tip pri-black sec-brown" data-primary="black" data-secondary="brown">
+        <rect
+        class="pin-core rj-black"
+        x="92px" y="434px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="105.75px" y="434px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-black sec-brown" data-primary="black" data-secondary="brown">
+        <rect
+        class="pin-core rj-black"
+        x="130px" y="434px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="143.75px" y="434px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="437.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_black_brown_ring">
+            
+    <g class="pin pin-ring pri-black sec-brown" data-primary="black" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="92px" y="450px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="105.75px" y="450px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-black sec-brown" data-primary="black" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="130px" y="450px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="143.75px" y="450px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="453.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="430.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_black_brown">
+        <title>Pair: black/brown on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="434px" dominant-baseline="hanging" style="font-size: 10px;">(B-14) BK/BN</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="450px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="432" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_black_brown_tip">
+            
+    <g class="pin pin-tip pri-black sec-brown" data-primary="black" data-secondary="brown">
+        <rect
+        class="pin-core rj-black"
+        x="168px" y="434px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="181.75px" y="434px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-black sec-brown" data-primary="black" data-secondary="brown">
+        <rect
+        class="pin-core rj-black"
+        x="206px" y="434px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="219.75px" y="434px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="437.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_black_brown_ring">
+            
+    <g class="pin pin-ring pri-black sec-brown" data-primary="black" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="168px" y="450px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="181.75px" y="450px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-black sec-brown" data-primary="black" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="206px" y="450px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="219.75px" y="450px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="453.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="430.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_black_slate">
+        <title>Pair: black/slate on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="466px" dominant-baseline="hanging" style="font-size: 10px;">(A-15) BK/GY</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="482px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="464" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_black_slate_tip">
+            
+    <g class="pin pin-tip pri-black sec-slate" data-primary="black" data-secondary="slate">
+        <rect
+        class="pin-core rj-black"
+        x="92px" y="466px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="105.75px" y="466px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-black sec-slate" data-primary="black" data-secondary="slate">
+        <rect
+        class="pin-core rj-black"
+        x="130px" y="466px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="143.75px" y="466px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="469.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_black_slate_ring">
+            
+    <g class="pin pin-ring pri-black sec-slate" data-primary="black" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="92px" y="482px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="105.75px" y="482px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-black sec-slate" data-primary="black" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="130px" y="482px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="143.75px" y="482px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="485.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="462.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_black_slate">
+        <title>Pair: black/slate on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="466px" dominant-baseline="hanging" style="font-size: 10px;">(B-15) BK/GY</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="482px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="464" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_black_slate_tip">
+            
+    <g class="pin pin-tip pri-black sec-slate" data-primary="black" data-secondary="slate">
+        <rect
+        class="pin-core rj-black"
+        x="168px" y="466px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="181.75px" y="466px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-black sec-slate" data-primary="black" data-secondary="slate">
+        <rect
+        class="pin-core rj-black"
+        x="206px" y="466px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="219.75px" y="466px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="469.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_black_slate_ring">
+            
+    <g class="pin pin-ring pri-black sec-slate" data-primary="black" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="168px" y="482px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="181.75px" y="482px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-black sec-slate" data-primary="black" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="206px" y="482px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-black"
+        x="219.75px" y="482px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="485.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="462.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_yellow_blue">
+        <title>Pair: yellow/blue on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="498px" dominant-baseline="hanging" style="font-size: 10px;">(A-16) YE/BU</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="514px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="496" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_yellow_blue_tip">
+            
+    <g class="pin pin-tip pri-yellow sec-blue" data-primary="yellow" data-secondary="blue">
+        <rect
+        class="pin-core rj-yellow"
+        x="92px" y="498px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="105.75px" y="498px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-yellow sec-blue" data-primary="yellow" data-secondary="blue">
+        <rect
+        class="pin-core rj-yellow"
+        x="130px" y="498px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="143.75px" y="498px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="501.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_yellow_blue_ring">
+            
+    <g class="pin pin-ring pri-yellow sec-blue" data-primary="yellow" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="92px" y="514px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="105.75px" y="514px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-yellow sec-blue" data-primary="yellow" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="130px" y="514px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="143.75px" y="514px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="517.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="494.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_yellow_blue">
+        <title>Pair: yellow/blue on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="498px" dominant-baseline="hanging" style="font-size: 10px;">(B-16) YE/BU</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="514px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="496" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_yellow_blue_tip">
+            
+    <g class="pin pin-tip pri-yellow sec-blue" data-primary="yellow" data-secondary="blue">
+        <rect
+        class="pin-core rj-yellow"
+        x="168px" y="498px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="181.75px" y="498px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-yellow sec-blue" data-primary="yellow" data-secondary="blue">
+        <rect
+        class="pin-core rj-yellow"
+        x="206px" y="498px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="219.75px" y="498px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="501.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_yellow_blue_ring">
+            
+    <g class="pin pin-ring pri-yellow sec-blue" data-primary="yellow" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="168px" y="514px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="181.75px" y="514px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-yellow sec-blue" data-primary="yellow" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="206px" y="514px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="219.75px" y="514px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="517.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="494.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_yellow_orange">
+        <title>Pair: yellow/orange on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="530px" dominant-baseline="hanging" style="font-size: 10px;">(A-17) YE/OG</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="546px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="528" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_yellow_orange_tip">
+            
+    <g class="pin pin-tip pri-yellow sec-orange" data-primary="yellow" data-secondary="orange">
+        <rect
+        class="pin-core rj-yellow"
+        x="92px" y="530px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="105.75px" y="530px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-yellow sec-orange" data-primary="yellow" data-secondary="orange">
+        <rect
+        class="pin-core rj-yellow"
+        x="130px" y="530px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="143.75px" y="530px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="533.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_yellow_orange_ring">
+            
+    <g class="pin pin-ring pri-yellow sec-orange" data-primary="yellow" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="92px" y="546px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="105.75px" y="546px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-yellow sec-orange" data-primary="yellow" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="130px" y="546px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="143.75px" y="546px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="549.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="526.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_yellow_orange">
+        <title>Pair: yellow/orange on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="530px" dominant-baseline="hanging" style="font-size: 10px;">(B-17) YE/OG</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="546px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="528" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_yellow_orange_tip">
+            
+    <g class="pin pin-tip pri-yellow sec-orange" data-primary="yellow" data-secondary="orange">
+        <rect
+        class="pin-core rj-yellow"
+        x="168px" y="530px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="181.75px" y="530px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-yellow sec-orange" data-primary="yellow" data-secondary="orange">
+        <rect
+        class="pin-core rj-yellow"
+        x="206px" y="530px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="219.75px" y="530px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="533.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_yellow_orange_ring">
+            
+    <g class="pin pin-ring pri-yellow sec-orange" data-primary="yellow" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="168px" y="546px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="181.75px" y="546px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-yellow sec-orange" data-primary="yellow" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="206px" y="546px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="219.75px" y="546px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="549.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="526.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_yellow_green">
+        <title>Pair: yellow/green on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="562px" dominant-baseline="hanging" style="font-size: 10px;">(A-18) YE/GN</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="578px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="560" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_yellow_green_tip">
+            
+    <g class="pin pin-tip pri-yellow sec-green" data-primary="yellow" data-secondary="green">
+        <rect
+        class="pin-core rj-yellow"
+        x="92px" y="562px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="105.75px" y="562px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-yellow sec-green" data-primary="yellow" data-secondary="green">
+        <rect
+        class="pin-core rj-yellow"
+        x="130px" y="562px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="143.75px" y="562px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="565.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_yellow_green_ring">
+            
+    <g class="pin pin-ring pri-yellow sec-green" data-primary="yellow" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="92px" y="578px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="105.75px" y="578px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-yellow sec-green" data-primary="yellow" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="130px" y="578px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="143.75px" y="578px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="581.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="558.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_yellow_green">
+        <title>Pair: yellow/green on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="562px" dominant-baseline="hanging" style="font-size: 10px;">(B-18) YE/GN</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="578px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="560" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_yellow_green_tip">
+            
+    <g class="pin pin-tip pri-yellow sec-green" data-primary="yellow" data-secondary="green">
+        <rect
+        class="pin-core rj-yellow"
+        x="168px" y="562px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="181.75px" y="562px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-yellow sec-green" data-primary="yellow" data-secondary="green">
+        <rect
+        class="pin-core rj-yellow"
+        x="206px" y="562px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="219.75px" y="562px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="565.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_yellow_green_ring">
+            
+    <g class="pin pin-ring pri-yellow sec-green" data-primary="yellow" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="168px" y="578px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="181.75px" y="578px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-yellow sec-green" data-primary="yellow" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="206px" y="578px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="219.75px" y="578px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="581.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="558.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_yellow_brown">
+        <title>Pair: yellow/brown on side A</title>
+        
+        <g class="pin-label label-custom">
+            <text class="pin-label-top" x="5.333333333333333px" y="594px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="610px" dominant-baseline="hanging" style="font-size: 10px;">Rm352</text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="592" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_yellow_brown_tip">
+            
+    <g class="pin pin-tip pri-yellow sec-brown" data-primary="yellow" data-secondary="brown">
+        <rect
+        class="pin-core rj-yellow"
+        x="92px" y="594px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="105.75px" y="594px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-yellow sec-brown" data-primary="yellow" data-secondary="brown">
+        <rect
+        class="pin-core rj-yellow"
+        x="130px" y="594px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="143.75px" y="594px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="597.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_yellow_brown_ring">
+            
+    <g class="pin pin-ring pri-yellow sec-brown" data-primary="yellow" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="92px" y="610px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="105.75px" y="610px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-yellow sec-brown" data-primary="yellow" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="130px" y="610px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="143.75px" y="610px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="613.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="590.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_yellow_brown">
+        <title>Pair: yellow/brown on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="594px" dominant-baseline="hanging" style="font-size: 10px;">(B-19) YE/BN</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="610px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="592" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_yellow_brown_tip">
+            
+    <g class="pin pin-tip pri-yellow sec-brown" data-primary="yellow" data-secondary="brown">
+        <rect
+        class="pin-core rj-yellow"
+        x="168px" y="594px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="181.75px" y="594px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-yellow sec-brown" data-primary="yellow" data-secondary="brown">
+        <rect
+        class="pin-core rj-yellow"
+        x="206px" y="594px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="219.75px" y="594px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="597.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_yellow_brown_ring">
+            
+    <g class="pin pin-ring pri-yellow sec-brown" data-primary="yellow" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="168px" y="610px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="181.75px" y="610px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-yellow sec-brown" data-primary="yellow" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="206px" y="610px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="219.75px" y="610px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="613.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="590.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_yellow_slate">
+        <title>Pair: yellow/slate on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="626px" dominant-baseline="hanging" style="font-size: 10px;">(A-20) YE/GY</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="642px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="624" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_yellow_slate_tip">
+            
+    <g class="pin pin-tip pri-yellow sec-slate" data-primary="yellow" data-secondary="slate">
+        <rect
+        class="pin-core rj-yellow"
+        x="92px" y="626px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="105.75px" y="626px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-yellow sec-slate" data-primary="yellow" data-secondary="slate">
+        <rect
+        class="pin-core rj-yellow"
+        x="130px" y="626px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="143.75px" y="626px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="629.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_yellow_slate_ring">
+            
+    <g class="pin pin-ring pri-yellow sec-slate" data-primary="yellow" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="92px" y="642px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="105.75px" y="642px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-yellow sec-slate" data-primary="yellow" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="130px" y="642px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="143.75px" y="642px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="645.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="622.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_yellow_slate">
+        <title>Pair: yellow/slate on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="626px" dominant-baseline="hanging" style="font-size: 10px;">(B-20) YE/GY</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="642px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="624" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_yellow_slate_tip">
+            
+    <g class="pin pin-tip pri-yellow sec-slate" data-primary="yellow" data-secondary="slate">
+        <rect
+        class="pin-core rj-yellow"
+        x="168px" y="626px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="181.75px" y="626px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-yellow sec-slate" data-primary="yellow" data-secondary="slate">
+        <rect
+        class="pin-core rj-yellow"
+        x="206px" y="626px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="219.75px" y="626px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="629.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_yellow_slate_ring">
+            
+    <g class="pin pin-ring pri-yellow sec-slate" data-primary="yellow" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="168px" y="642px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="181.75px" y="642px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-yellow sec-slate" data-primary="yellow" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="206px" y="642px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-yellow"
+        x="219.75px" y="642px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="645.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="622.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_violet_blue">
+        <title>Pair: violet/blue on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="658px" dominant-baseline="hanging" style="font-size: 10px;">(A-21) VT/BU</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="674px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="656" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_violet_blue_tip">
+            
+    <g class="pin pin-tip pri-violet sec-blue" data-primary="violet" data-secondary="blue">
+        <rect
+        class="pin-core rj-violet"
+        x="92px" y="658px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="105.75px" y="658px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-violet sec-blue" data-primary="violet" data-secondary="blue">
+        <rect
+        class="pin-core rj-violet"
+        x="130px" y="658px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="143.75px" y="658px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="661.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_violet_blue_ring">
+            
+    <g class="pin pin-ring pri-violet sec-blue" data-primary="violet" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="92px" y="674px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="105.75px" y="674px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-violet sec-blue" data-primary="violet" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="130px" y="674px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="143.75px" y="674px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="677.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="654.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_violet_blue">
+        <title>Pair: violet/blue on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="658px" dominant-baseline="hanging" style="font-size: 10px;">(B-21) VT/BU</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="674px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="656" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_violet_blue_tip">
+            
+    <g class="pin pin-tip pri-violet sec-blue" data-primary="violet" data-secondary="blue">
+        <rect
+        class="pin-core rj-violet"
+        x="168px" y="658px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="181.75px" y="658px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-violet sec-blue" data-primary="violet" data-secondary="blue">
+        <rect
+        class="pin-core rj-violet"
+        x="206px" y="658px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-blue"
+        x="219.75px" y="658px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="661.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_violet_blue_ring">
+            
+    <g class="pin pin-ring pri-violet sec-blue" data-primary="violet" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="168px" y="674px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="181.75px" y="674px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-violet sec-blue" data-primary="violet" data-secondary="blue">
+        <rect
+        class="pin-core rj-blue"
+        x="206px" y="674px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="219.75px" y="674px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="677.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="654.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_violet_orange">
+        <title>Pair: violet/orange on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="690px" dominant-baseline="hanging" style="font-size: 10px;">(A-22) VT/OG</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="706px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="688" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_violet_orange_tip">
+            
+    <g class="pin pin-tip pri-violet sec-orange" data-primary="violet" data-secondary="orange">
+        <rect
+        class="pin-core rj-violet"
+        x="92px" y="690px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="105.75px" y="690px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-violet sec-orange" data-primary="violet" data-secondary="orange">
+        <rect
+        class="pin-core rj-violet"
+        x="130px" y="690px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="143.75px" y="690px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="693.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_violet_orange_ring">
+            
+    <g class="pin pin-ring pri-violet sec-orange" data-primary="violet" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="92px" y="706px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="105.75px" y="706px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-violet sec-orange" data-primary="violet" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="130px" y="706px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="143.75px" y="706px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="709.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="686.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_violet_orange">
+        <title>Pair: violet/orange on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="690px" dominant-baseline="hanging" style="font-size: 10px;">(B-22) VT/OG</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="706px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="688" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_violet_orange_tip">
+            
+    <g class="pin pin-tip pri-violet sec-orange" data-primary="violet" data-secondary="orange">
+        <rect
+        class="pin-core rj-violet"
+        x="168px" y="690px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="181.75px" y="690px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-violet sec-orange" data-primary="violet" data-secondary="orange">
+        <rect
+        class="pin-core rj-violet"
+        x="206px" y="690px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-orange"
+        x="219.75px" y="690px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="693.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_violet_orange_ring">
+            
+    <g class="pin pin-ring pri-violet sec-orange" data-primary="violet" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="168px" y="706px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="181.75px" y="706px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-violet sec-orange" data-primary="violet" data-secondary="orange">
+        <rect
+        class="pin-core rj-orange"
+        x="206px" y="706px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="219.75px" y="706px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="709.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="686.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_violet_green">
+        <title>Pair: violet/green on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="722px" dominant-baseline="hanging" style="font-size: 10px;">(A-23) VT/GN</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="738px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="720" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_violet_green_tip">
+            
+    <g class="pin pin-tip pri-violet sec-green" data-primary="violet" data-secondary="green">
+        <rect
+        class="pin-core rj-violet"
+        x="92px" y="722px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="105.75px" y="722px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-violet sec-green" data-primary="violet" data-secondary="green">
+        <rect
+        class="pin-core rj-violet"
+        x="130px" y="722px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="143.75px" y="722px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="725.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_violet_green_ring">
+            
+    <g class="pin pin-ring pri-violet sec-green" data-primary="violet" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="92px" y="738px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="105.75px" y="738px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-violet sec-green" data-primary="violet" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="130px" y="738px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="143.75px" y="738px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="741.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="718.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_violet_green">
+        <title>Pair: violet/green on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="722px" dominant-baseline="hanging" style="font-size: 10px;">(B-23) VT/GN</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="738px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="720" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_violet_green_tip">
+            
+    <g class="pin pin-tip pri-violet sec-green" data-primary="violet" data-secondary="green">
+        <rect
+        class="pin-core rj-violet"
+        x="168px" y="722px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="181.75px" y="722px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-violet sec-green" data-primary="violet" data-secondary="green">
+        <rect
+        class="pin-core rj-violet"
+        x="206px" y="722px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-green"
+        x="219.75px" y="722px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="725.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_violet_green_ring">
+            
+    <g class="pin pin-ring pri-violet sec-green" data-primary="violet" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="168px" y="738px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="181.75px" y="738px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-violet sec-green" data-primary="violet" data-secondary="green">
+        <rect
+        class="pin-core rj-green"
+        x="206px" y="738px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="219.75px" y="738px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="741.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="718.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_violet_brown">
+        <title>Pair: violet/brown on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="754px" dominant-baseline="hanging" style="font-size: 10px;">(A-24) VT/BN</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="770px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="752" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_violet_brown_tip">
+            
+    <g class="pin pin-tip pri-violet sec-brown" data-primary="violet" data-secondary="brown">
+        <rect
+        class="pin-core rj-violet"
+        x="92px" y="754px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="105.75px" y="754px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-violet sec-brown" data-primary="violet" data-secondary="brown">
+        <rect
+        class="pin-core rj-violet"
+        x="130px" y="754px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="143.75px" y="754px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="757.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_violet_brown_ring">
+            
+    <g class="pin pin-ring pri-violet sec-brown" data-primary="violet" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="92px" y="770px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="105.75px" y="770px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-violet sec-brown" data-primary="violet" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="130px" y="770px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="143.75px" y="770px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="773.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="750.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_violet_brown">
+        <title>Pair: violet/brown on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="754px" dominant-baseline="hanging" style="font-size: 10px;">(B-24) VT/BN</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="770px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="752" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_violet_brown_tip">
+            
+    <g class="pin pin-tip pri-violet sec-brown" data-primary="violet" data-secondary="brown">
+        <rect
+        class="pin-core rj-violet"
+        x="168px" y="754px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="181.75px" y="754px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-violet sec-brown" data-primary="violet" data-secondary="brown">
+        <rect
+        class="pin-core rj-violet"
+        x="206px" y="754px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-brown"
+        x="219.75px" y="754px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="757.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_violet_brown_ring">
+            
+    <g class="pin pin-ring pri-violet sec-brown" data-primary="violet" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="168px" y="770px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="181.75px" y="770px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-violet sec-brown" data-primary="violet" data-secondary="brown">
+        <rect
+        class="pin-core rj-brown"
+        x="206px" y="770px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="219.75px" y="770px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="773.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="750.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_a_pair_violet_slate">
+        <title>Pair: violet/slate on side A</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="5.333333333333333px" y="786px" dominant-baseline="hanging" style="font-size: 10px;">(A-25) VT/GY</text>
+            <text class="pin-label-bottom" x="5.333333333333333px" y="802px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="86.66666666666667px" y="784" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_a_pair_violet_slate_tip">
+            
+    <g class="pin pin-tip pri-violet sec-slate" data-primary="violet" data-secondary="slate">
+        <rect
+        class="pin-core rj-violet"
+        x="92px" y="786px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="105.75px" y="786px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-violet sec-slate" data-primary="violet" data-secondary="slate">
+        <rect
+        class="pin-core rj-violet"
+        x="130px" y="786px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="143.75px" y="786px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="789.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_a_pair_violet_slate_ring">
+            
+    <g class="pin pin-ring pri-violet sec-slate" data-primary="violet" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="92px" y="802px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="105.75px" y="802px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-violet sec-slate" data-primary="violet" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="130px" y="802px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="143.75px" y="802px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="114px" y="805.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="80px" y="782.0px" width="80.0px" height="32px"></rect>
+        </g>
+	
+        <g class="pin-group" id="side_b_pair_violet_slate">
+        <title>Pair: violet/slate on side B</title>
+        
+        <g class="pin-label label-default">
+            <text class="pin-label-top" x="245.33333333333334px" y="786px" dominant-baseline="hanging" style="font-size: 10px;">(B-25) VT/GY</text>
+            <text class="pin-label-bottom" x="245.33333333333334px" y="802px" dominant-baseline="hanging" style="font-size: 10px;"></text>
+        </g>
+
+        <rect class="pin-group-bkg" x="162.66666666666666px" y="784" width="70.66666666666667px" height="28px"></rect>
+        
+        <g class="pin-pair">
+            <g class="pin-pair-connection pin-pair-tip" id="side_b_pair_violet_slate_tip">
+            
+    <g class="pin pin-tip pri-violet sec-slate" data-primary="violet" data-secondary="slate">
+        <rect
+        class="pin-core rj-violet"
+        x="168px" y="786px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="181.75px" y="786px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-tip pri-violet sec-slate" data-primary="violet" data-secondary="slate">
+        <rect
+        class="pin-core rj-violet"
+        x="206px" y="786px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-slate"
+        x="219.75px" y="786px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="789.0px" width="16px" height="2.0px"></rect>
+            </g>
+
+            <g class="pin-pair-connection pin-pair-ring"  id="side_b_pair_violet_slate_ring">
+            
+    <g class="pin pin-ring pri-violet sec-slate" data-primary="violet" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="168px" y="802px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="181.75px" y="802px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            
+    <g class="pin pin-ring pri-violet sec-slate" data-primary="violet" data-secondary="slate">
+        <rect
+        class="pin-core rj-slate"
+        x="206px" y="802px"
+        width="22px" height="8px"
+        ></rect>
+        <rect
+        class="pin-stripe rj-violet"
+        x="219.75px" y="802px"
+        width="2.75px" height="8px"
+        transform="skewX(-30)"
+        ></rect>
+    </g>
+    
+            <rect class="pin-bridge" x="190px" y="805.0px" width="16px" height="2.0px"></rect>
+            </g>
+        </g>
+
+        <rect class="pin-group-border" x="160.0px" y="782.0px" width="80.0px" height="32px"></rect>
+        </g></g>
+        <style>
+        :root {
+    --rj-white: white;
+    --rj-red: #ff4646;
+    --rj-black: #222222;
+    --rj-yellow: #ecec6f;
+    --rj-violet: #f894f8;
+    --rj-blue: #4747fe;
+    --rj-orange: orange;
+    --rj-green: #55ff55;
+    --rj-brown: #6c2c2c;
+    --rj-slate: slategray;
+
+    font-family: sans-serif;
+}
+
+#pins .pin rect.rj-white  { fill: var(--rj-white); }
+#pins .pin rect.rj-red    { fill: var(--rj-red); }
+#pins .pin rect.rj-black  { fill: var(--rj-black); }
+#pins .pin rect.rj-yellow { fill: var(--rj-yellow); }
+#pins .pin rect.rj-violet { fill: var(--rj-violet); }
+#pins .pin rect.rj-blue   { fill: var(--rj-blue); }
+#pins .pin rect.rj-orange { fill: var(--rj-orange); }
+#pins .pin rect.rj-green  { fill: var(--rj-green); }
+#pins .pin rect.rj-brown  { fill: var(--rj-brown); }
+#pins .pin rect.rj-slate  { fill: var(--rj-slate); }
+
+#pins.greypins .pin rect.pin-core, #pins .pin rect.pin-stripe {
+    fill: gray;
+}
+
+rect.pin-stripe {
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+g.pin rect.pin-core {
+    rx: 2px;
+    ry: 1px;
+}
+g.pin rect.pin-tip, g.pin rect.pin-stripe {
+    filter: saturate(100%);
+}
+g.pin {
+    filter: contrast(120%);
+    /* border: 2px solid black; */
+    /* border-radius: 5px; */
+}
+
+#housing rect {
+    fill: #e3e3e3;
+    stroke-width: 3px;
+    /* border: 2px solid black; */
+    stroke: black;
+    stroke-width: 1px;
+    /* stroke-linejoin: round; */
+    /* stroke-width: 5px; */
+}
+
+rect.pin-group-bkg {
+    fill: none;
+    stroke-width: 1px;
+    stroke: #00000002;
+    /* outline-style: auto; */
+    /* outline-color: #444444ff; */
+    /* outline: 2px inset #ffffff30; */
+    /* border: 2px solid black; */
+}
+rect.pin-group-bkg:hover {
+    fill: rgba(156,69,69,0.467);
+}
+rect.pin-group-border {
+    fill: none;
+    stroke-width: 1px;
+    stroke: #00000022;
+    pointer-events: bounding-box;
+}
+rect.pin-group-border:hover {
+    stroke: #000000;
+}
+
+rect.pin-bridge {
+    fill: gray;
+    opacity: 50%;
+}
+
+.label-default {
+    opacity: 50%;
+}
+
+
+
+        </style>
+        </svg>
+    

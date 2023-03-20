@@ -1,0 +1,90 @@
+:root {
+    --rj-white: white;
+    --rj-red: #ff4646;
+    --rj-black: #222222;
+    --rj-yellow: #ecec6f;
+    --rj-violet: #f894f8;
+    --rj-blue: #4747fe;
+    --rj-orange: orange;
+    --rj-green: #55ff55;
+    --rj-brown: #6c2c2c;
+    --rj-slate: slategray;
+
+    font-family: sans-serif;
+}
+
+#pins .pin rect.rj-white  { fill: var(--rj-white); }
+#pins .pin rect.rj-red    { fill: var(--rj-red); }
+#pins .pin rect.rj-black  { fill: var(--rj-black); }
+#pins .pin rect.rj-yellow { fill: var(--rj-yellow); }
+#pins .pin rect.rj-violet { fill: var(--rj-violet); }
+#pins .pin rect.rj-blue   { fill: var(--rj-blue); }
+#pins .pin rect.rj-orange { fill: var(--rj-orange); }
+#pins .pin rect.rj-green  { fill: var(--rj-green); }
+#pins .pin rect.rj-brown  { fill: var(--rj-brown); }
+#pins .pin rect.rj-slate  { fill: var(--rj-slate); }
+
+#pins.greypins .pin rect.pin-core, #pins .pin rect.pin-stripe {
+    fill: gray;
+}
+
+rect.pin-stripe {
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+g.pin rect.pin-core {
+    rx: 2px;
+    ry: 1px;
+}
+g.pin rect.pin-tip, g.pin rect.pin-stripe {
+    filter: saturate(100%);
+}
+g.pin {
+    filter: contrast(120%);
+    /* border: 2px solid black; */
+    /* border-radius: 5px; */
+}
+
+#housing rect {
+    fill: #e3e3e3;
+    stroke-width: 3px;
+    /* border: 2px solid black; */
+    stroke: black;
+    stroke-width: 1px;
+    /* stroke-linejoin: round; */
+    /* stroke-width: 5px; */
+}
+
+rect.pin-group-bkg {
+    fill: none;
+    stroke-width: 1px;
+    stroke: #00000002;
+    /* outline-style: auto; */
+    /* outline-color: #444444ff; */
+    /* outline: 2px inset #ffffff30; */
+    /* border: 2px solid black; */
+}
+rect.pin-group-bkg:hover {
+    fill: rgba(156,69,69,0.467);
+}
+rect.pin-group-border {
+    fill: none;
+    stroke-width: 1px;
+    stroke: #00000022;
+    pointer-events: bounding-box;
+}
+rect.pin-group-border:hover {
+    stroke: #000000;
+}
+
+rect.pin-bridge {
+    fill: gray;
+    opacity: 50%;
+}
+
+.label-default {
+    opacity: 50%;
+}
+
+
