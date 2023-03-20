@@ -1,0 +1,283 @@
+<!-- https://en.wikipedia.org/wiki/25-pair_color_code -->
+
+  <svg id="block66" width="417" height="1200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+    
+    <image
+    x="0" y="0" width="417px" height="1200px"
+    href="block66-model-front.png"
+    transform="scale(1 0.975) translate(-80 -12)"
+    />
+  
+  <g id="housing">
+    <!--
+      width = 12*2 + PIN_WIDTH*4 + PIN_GAP*3
+      height = 18*2 + ROW_HEIGHT*2*TOTAL_PAIRS*2-ROW_HEIGHT;
+    <rect x="128px" y="14px" width="160px" height="828px"></rect>
+    -->
+  </g>
+  <g id="pins"></g>
+
+  <script>
+    // <![CDATA[
+
+    // all values in pixels
+
+    // template png borders
+    const PNG_BORDER_W = 0;
+    const PNG_BORDER_H = 0;
+
+    // width of label space/cable mgmt housing
+    const LABEL_W = 50;
+
+    // total pair count
+    const TOTAL_PAIRS = 25;
+
+    // width of the pins, and the gaps between them
+    const PIN_WIDTH = 22;
+    const PIN_GAP = 16;
+
+    // distance between the inner pins and the outside housing plate they're mounted on
+    const PIN_BORDER_W = 12;
+    const PIN_BORDER_H = 18;
+
+    // how tall each pin/space row is
+    const ROW_HEIGHT = 8;
+
+    // logical borders for cursor selection
+    const BDR_W = PIN_GAP/3;
+    const BDR_H = 2;
+
+    // colors in the color code
+    const COLORS = {
+      'primary': ['white', 'red', 'black', 'yellow', 'violet'],
+      'secondary': ['blue', 'orange', 'green', 'brown', 'slate'],
+    };
+    const COLORS_SHORT = {
+      white: 'WH',
+      red: 'RD',
+      black: 'BK',
+      yellow: 'YE',
+      violet: 'VT',
+      blue: 'BU',
+      orange: 'OG',
+      green: 'GN',
+      brown: 'BN',
+      slate: 'GY'
+    }
+    function generate_pairs() {
+      const pairs = []
+      for(const p of COLORS.primary) {
+        for(const s of COLORS.secondary) {
+          pairs.push([p, s]);
+        }
+      }
+      return pairs;
+    }
+    // ordered list of 25 color pairs
+    const PAIRS = generate_pairs();
+
+    // # generate pins
+    function pin(pin_type, x, y, primary, secondary) {
+      // pin, pin stripe
+      
+      if(!COLORS.primary.includes(primary)) throw new Error("invalid primary color");
+      if(!COLORS.secondary.includes(secondary)) throw new Error("invalid secondary color");
+      if(!["tip", "ring"].includes(pin_type)) throw new Error("invalid pin type");
+      
+      let fill_core  = pin_type == "tip" ? primary : secondary;
+      let fill_strip = pin_type == "tip" ? secondary : primary;
+
+      return `
+        <g class="pin pin-${pin_type} pri-${primary} sec-${secondary}" data-primary="${primary}" data-secondary="${secondary}">
+          <rect
+            class="pin-core rj-${fill_core}"
+            x="${x}px" y="${y}px"
+            width="${PIN_WIDTH}px" height="${ROW_HEIGHT}px"
+          ></rect>
+          <rect
+            class="pin-stripe rj-${fill_strip}"
+            x="${x + PIN_WIDTH/8*5}px" y="${y}px"
+            width="${PIN_WIDTH/8}px" height="${ROW_HEIGHT}px"
+            transform="skewX(-30)"
+          ></rect>
+        </g>
+      `
+    }
+    function pin_group(side, x, y, primary, secondary) {
+      let border_x = side == 'a' ? x-PIN_BORDER_W : x - PIN_GAP/2;
+      let label_x = side == 'a'  ? x-PIN_BORDER_W/2-LABEL_W : x + PIN_WIDTH*2 + PIN_BORDER_W + PIN_GAP;
+      let label_text = COLORS_SHORT[primary] + '/' + COLORS_SHORT[secondary];
+      return `
+      <g class="pin-group" id="side_${side}_pair_${primary}_${secondary}">
+        <title>Pair: ${primary}/${secondary} on side ${side.toUpperCase()}</title>
+        
+        <text class="pin-label" x="${label_x}px" y="${y}px" dominant-baseline="hanging" style="font-size: 10px;">${label_text}</text>
+
+        <rect class="pin-group-bkg" x="${x - BDR_W}px" y="${y - BDR_H}" width="${PIN_WIDTH*2+PIN_GAP + BDR_W*2}px" height="${ROW_HEIGHT*3+BDR_H*2}px"></rect>
+        
+        <g class="pin-pair">
+          <g class="pin-pair-connection pin-pair-tip" id="side_${side}_pair_${primary}_${secondary}_tip">
+            ${pin('tip', x, y, primary, secondary)}
+            ${pin('tip', x + PIN_WIDTH+PIN_GAP, y, primary, secondary) }
+            <rect class="pin-bridge" x="${x+PIN_WIDTH}px" y="${y+ROW_HEIGHT/8*3}px" width="${PIN_GAP}px" height="${ROW_HEIGHT/4}px"></rect>
+          </g>
+
+          <g class="pin-pair-connection pin-pair-ring"  id="side_${side}_pair_${primary}_${secondary}_ring">
+            ${pin('ring', x, y + ROW_HEIGHT*2, primary, secondary)}
+            ${pin('ring', x + PIN_WIDTH+PIN_GAP, y + ROW_HEIGHT*2, primary, secondary) }
+            <rect class="pin-bridge" x="${x+PIN_WIDTH}px" y="${y+ROW_HEIGHT*2 + ROW_HEIGHT/8*3}px" width="${PIN_GAP}px" height="${ROW_HEIGHT/4}px"></rect>
+          </g>
+        </g>
+
+        <rect class="pin-group-border" x="${border_x}px" y="${y-ROW_HEIGHT/2}px" width="${PIN_BORDER_W + PIN_WIDTH*2 + PIN_GAP*1.5}px" height="${ROW_HEIGHT*4}px"></rect>
+      </g>`
+    }
+
+    
+    let column = document.getElementById('terminal_pair_column');
+
+    const PINS = document.getElementById('pins');
+    for(let i = 0; i < PAIRS.length; i++) {
+      let [primary, secondary] = PAIRS[i];
+      
+      const x_left = PNG_BORDER_W + LABEL_W + PIN_BORDER_W;
+      const x_right = PNG_BORDER_W + LABEL_W + PIN_BORDER_W + PIN_WIDTH*2 + PIN_GAP*2;
+      const y = PNG_BORDER_H + PIN_BORDER_H + i*ROW_HEIGHT*4;
+      PINS.insertAdjacentHTML('beforeend', pin_group('a', x_left, y, primary, secondary));
+      PINS.insertAdjacentHTML('beforeend', pin_group('b', x_right, y, primary, secondary));
+    }
+
+    // # generate housing
+    function housing_elements() {
+      const PANEL_HEIGHT = PIN_BORDER_H*2 + ROW_HEIGHT*2*TOTAL_PAIRS*2-ROW_HEIGHT;
+      const BOUNDS = [
+        [ // main backing
+          PNG_BORDER_W + LABEL_W,
+          PNG_BORDER_H,
+          PIN_BORDER_W*2 + PIN_WIDTH*4 + PIN_GAP*3,
+          PANEL_HEIGHT,
+        ],
+        [ // left label area
+          PNG_BORDER_W,
+          PNG_BORDER_H,
+          LABEL_W,
+          PANEL_HEIGHT,
+        ],
+        [ // right label area
+          PNG_BORDER_W + LABEL_W + PIN_BORDER_W*2 + PIN_WIDTH*4 + PIN_GAP*3,
+          PNG_BORDER_H,
+          LABEL_W,
+          PANEL_HEIGHT,
+        ],
+      ];
+      return BOUNDS.map(([x,y,w,h]) => `
+        <rect x="${x}px" y="${y}px" width="${w}px" height="${h}px"></rect>"
+      `);
+    }
+
+    const HOUSING = document.getElementById('housing');
+    housing_elements().forEach(s => HOUSING.insertAdjacentHTML('beforeend', s))
+
+    //    <!--
+    //  width = 12*2 + PIN_WIDTH*4 + PIN_GAP*3
+    //  height = 18*2 + ROW_HEIGHT*2*TOTAL_PAIRS*2-ROW_HEIGHT;
+    
+    // <rect x="128px" y="14px" width="160px" height="828px"></rect>
+
+    HOUSING.insertAdjacentHTML('beforeend',
+    `<rsect x="128px" y="14px" width="160px" height="828px"></rect>`
+    );
+
+
+    // column.innerHTML = column.innerHTML
+
+    // ]]>
+  </script>
+    
+  <style>
+    :root {
+      --rj-white: white;
+      --rj-red: #ff4646;
+      --rj-black: #222222;
+      --rj-yellow: #ecec6f;
+      --rj-violet: #f894f8;
+      --rj-blue: #4747fe;
+      --rj-orange: orange;
+      --rj-green: #55ff55;
+      --rj-brown: #6c2c2c;
+      --rj-slate: slategray;
+
+      font-family: sans-serif;
+    }
+
+    #pins .pin rect.rj-white  {fill: var(--rj-white);}
+    #pins .pin rect.rj-red    { fill: var(--rj-red); }
+    #pins .pin rect.rj-black  { fill: var(--rj-black); }
+    #pins .pin rect.rj-yellow { fill: var(--rj-yellow); }
+    #pins .pin rect.rj-violet { fill: var(--rj-violet); }
+    #pins .pin rect.rj-blue   { fill: var(--rj-blue); }
+    #pins .pin rect.rj-orange { fill: var(--rj-orange); }
+    #pins .pin rect.rj-green  { fill: var(--rj-green); }
+    #pins .pin rect.rj-brown  { fill: var(--rj-brown); }
+    #pins .pin rect.rj-slate  { fill: var(--rj-slate); }
+
+    rect.pin-stripe {
+      transform-origin: center;
+      transform-box: fill-box;
+    }
+
+    g.pin rect.pin-core {
+      rx: 2px;
+      ry: 1px;
+    }
+    g.pin rect.pin-tip, g.pin rect.pin-stripe {
+      filter: saturate(100%);
+    }
+    g.pin {
+      filter: contrast(120%);
+      /* border: 2px solid black; */
+      /* border-radius: 5px; */
+    }
+
+    #housing rect {
+      fill: #e3e3e3;
+      stroke-width: 3px;
+      /* border: 2px solid black; */
+      stroke: black;
+      stroke-width: 1px;
+      /* stroke-linejoin: round; */
+      /* stroke-width: 5px; */
+    }
+
+    rect.pin-group-bkg {
+      fill: none;
+      stroke-width: 1px;
+      stroke: #00000002;
+      /* outline-style: auto; */
+      /* outline-color: #444444ff; */
+      /* outline: 2px inset #ffffff30; */
+      /* border: 2px solid black; */
+    }
+    rect.pin-group-bkg:hover {
+      fill: rgba(156,69,69,0.467);
+    }
+    rect.pin-group-border {
+      fill: none;
+      stroke-width: 1px;
+      stroke: #00000022;
+      pointer-events: bounding-box;
+    }
+    rect.pin-group-border:hover {
+      stroke: #000000;
+    }
+
+    rect.pin-bridge {
+      fill: gray;
+      opacity: 50%;
+    }
+
+    text.pin-label {
+      padding: 10px;
+    }
+  </style>
+</svg>
